@@ -1,0 +1,1 @@
+gcc a1_q2_180020006.c -o file.exe && file.exe
